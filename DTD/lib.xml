@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE myLibrary SYSTEM "lib.dtd">
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<myLibrary
+        location="Giza"
+        description="This is the Description"
+>
+    <librarian
+            firstName="Ahmed"
+            lastName="Wagdi"
+            age="22"
+            gender="male"
+    >dwqwdq</librarian>
+
+    <book
+            title="book1"
+            ISBN="book123"
+            author="ahmed"
+    >
+        <preface> <![CDATA[book's preface ]]></preface>
+        <part
+                title="part1title"
+        >
+            <chapter
+                    title="chapter1title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+
+
+            </chapter>
+            <chapter
+                    title="chapter2title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                </section>
+
+
+
+            </chapter>
+
+        </part>
+        <part
+                title="part2title"
+        >
+            <chapter
+                    title="chapter1title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+
+
+            </chapter>
+            <chapter
+                    title="chapter2title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                </section>
+
+
+
+            </chapter>
+
+        </part>
+
+
+    </book>
+
+    <book
+            title="book2"
+            ISBN="book124"
+            author="wagdi"
+    >
+        <preface> book's preface </preface>
+        <part
+                title="part1title"
+        >
+            <chapter
+                    title="chapter1title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+
+
+            </chapter>
+
+        </part>
+
+
+    </book>
+
+    <book
+            title="book3"
+            ISBN="book125"
+            author="mohamed"
+    >
+        <preface> book's preface </preface>
+        <part
+                title="part1title"
+        >
+            <chapter
+                    title="chapter1title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+
+
+            </chapter>
+
+        </part>
+
+
+    </book>
+
+    <book
+            title="book4"
+            ISBN="book126"
+            author="moslem"
+    >
+        <preface> book's preface </preface>
+        <part
+                title="part1title"
+        >
+            <chapter
+                    title="chapter1title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+
+
+            </chapter>
+
+        </part>
+
+
+    </book>
+
+    <book
+            title="book1"
+            ISBN="book1237"
+            author="ahmed"
+    >
+        <preface> book's preface </preface>
+        <part
+                title="part1title"
+        >
+            <chapter
+                    title="chapter1title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+
+
+            </chapter>
+            <chapter
+                    title="chapter2title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                </section>
+
+
+
+            </chapter>
+
+        </part>
+        <part
+                title="part2title"
+        >
+            <chapter
+                    title="chapter1title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+
+
+            </chapter>
+            <chapter
+                    title="chapter2title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                </section>
+
+
+
+            </chapter>
+
+        </part>
+
+
+    </book>
+
+    <book
+            title="book1"
+            ISBN="book128"
+            author="ahmed"
+    >
+        <preface> book's preface </preface>
+        <part
+                title="part1title"
+        >
+            <chapter
+                    title="chapter1title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+
+
+            </chapter>
+            <chapter
+                    title="chapter2title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                </section>
+
+
+
+            </chapter>
+
+        </part>
+        <part
+                title="part2title"
+        >
+            <chapter
+                    title="chapter1title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+
+
+            </chapter>
+            <chapter
+                    title="chapter2title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                </section>
+
+
+
+            </chapter>
+
+        </part>
+
+
+    </book>
+
+    <book
+            title="book1"
+            ISBN="book129"
+            author="ahmed"
+    >
+        <preface> book's preface </preface>
+        <part
+                title="part1title"
+        >
+            <chapter
+                    title="chapter1title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+
+
+            </chapter>
+            <chapter
+                    title="chapter2title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                </section>
+
+
+
+            </chapter>
+
+        </part>
+        <part
+                title="part2title"
+        >
+            <chapter
+                    title="chapter1title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+
+                </section>
+
+
+
+            </chapter>
+            <chapter
+                    title="chapter2title"
+                    summary="the summary of this chapter"
+            >
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+
+
+                </section>
+
+                <section>
+                    <paragraph>this is a pragraph</paragraph>
+                    <paragraph>this is a pragraph</paragraph>
+                </section>
+
+
+
+            </chapter>
+
+        </part>
+
+
+    </book>
+
+
+</myLibrary>
+
+
+
+
+

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="page.xsl"?>
+<PAGE>
+    <HEADING>page heading</HEADING>
+    <ARTICLE>
+        <TITLE>article title</TITLE>
+        <DESCRIPTION>article description</DESCRIPTION>
+    </ARTICLE>
+    <ASIDE>
+        <TITLE>side widget bar</TITLE>
+        <ITEM>sidebar item</ITEM>
+    </ASIDE>
+    <FOOTER>page footer</FOOTER>
+</PAGE>

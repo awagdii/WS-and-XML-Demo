@@ -1,0 +1,14 @@
+<tns:patient xmlns:tns="http://www.wagdi.com/Patient"
+             xmlns:xsi ="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.wagdi.com/Patient Patient.xsd "
+id="10">
+  <tns:name>ahmed</tns:name>
+  <tns:age>3</tns:age>
+  <tns:dob>2008-09-29</tns:dob>
+  <tns:email>string</tns:email>
+  <tns:gender>M</tns:gender>
+  <tns:phone>string</tns:phone>
+  <tns:payment>
+    <tns:cash>1000</tns:cash>
+  </tns:payment>
+</tns:patient>

@@ -1,0 +1,34 @@
+<!ELEMENT myLibrary (librarian,book*)>
+        <!ELEMENT librarian (#PCDATA)>
+        <!ELEMENT book (preface,part+)>
+        <!ELEMENT preface (#PCDATA)>
+        <!ELEMENT part (chapter+)>
+        <!ELEMENT chapter (section+)>
+        <!ELEMENT section (paragraph+)>
+        <!ELEMENT  paragraph (#PCDATA)>
+
+
+        <!ATTLIST myLibrary
+                location CDATA #REQUIRED
+                description CDATA #REQUIRED
+                >
+        <!ATTLIST librarian
+
+                firstName CDATA  #FIXED "Ahmed"
+                lastName CDATA "0"
+                age CDATA #IMPLIED
+                gender CDATA #REQUIRED
+                >
+        <!ATTLIST book
+                title CDATA #REQUIRED
+                ISBN ID #REQUIRED
+                author CDATA #REQUIRED
+
+                >
+        <!ATTLIST part
+                title CDATA #REQUIRED
+                >
+        <!ATTLIST chapter
+                title CDATA #REQUIRED
+                summary CDATA #REQUIRED
+                >
